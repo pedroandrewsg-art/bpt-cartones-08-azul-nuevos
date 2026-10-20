@@ -1,3 +1,3 @@
 # bpt-cartones-08-azul-nuevos
 
-Imagenes de cartones para Bingo para todos (una pagina = una imagen).
+Un archivo por carton (c1.jpg, c2.jpg, ...), en el orden del PDF original. Para Bingo para todos.
